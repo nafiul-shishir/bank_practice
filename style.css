@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 100px;
+}
+
+.submit-area{
+    margin-top:50px ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px gray;
+    padding: 40px;
+    border-top: 4px solid lightskyblue;
+    border-left: 4px solid lightskyblue;
+}
+
+#transaction-area{
+    display: none;
+}
+
+.deposit{
+    background-color: slateblue;
+}
+
+.withdraw{
+    background-color: springgreen;
+}
+
+.balance{
+    background-color: lightsalmon;
+}
+
+.status{
+    color: white;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
